@@ -23,7 +23,7 @@
 // TODO: add more comments in here
 
 #define BUILD_FOLDER "build/"
-#define SRC_FOLDER "src/"
+#define SRC_FOLDER ""
 
 int main(int argc, char **argv)
 {
